@@ -6,7 +6,7 @@
   <a href="#layout">Layout</a>
 </p>
 
-<img width="3780" height="1890" alt="Zingen" src="https://github.com/user-attachments/assets/6ea88e7d-5a6b-457e-9b5b-ec745b3826e5" />
+<img width="3780" height="1890" alt="Zingen" src="https://github.com/user-attachments/assets/b68e034d-2a5d-4e0e-b1ad-fc12fc67af5b" />
 
 ---
 
